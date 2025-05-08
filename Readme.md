@@ -93,7 +93,7 @@
 
   
 
-  해당 프로그램의 디컴파일링을 금지합니다.
+  해당 프로그램의 악용을 절대 금지합니다. 또한 해당 프로그램의 역공학(Reverse Engineering)을 금지합니다. 
 
 
   ![](https://i.imgur.com/KLPKxB1.png)
