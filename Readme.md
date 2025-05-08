@@ -1,4 +1,4 @@
-- # LaTale Data Toolkit
+# LaTale Data Toolkit
 
   라테일의 SPF, TBL, LDT 파일을 처리하는 도구입니다.
 
