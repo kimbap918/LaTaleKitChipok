@@ -1,5 +1,7 @@
 # LaTale Data Toolkit
 
+  Latale extractor - 라테일 클라이언트 분해 도구
+  
   라테일의 SPF, TBL, LDT 파일을 처리하는 도구입니다.
 
 <br>
