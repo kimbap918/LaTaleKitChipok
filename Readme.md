@@ -106,7 +106,7 @@ SPF_Output/
 
 ## 문의
 
-**개발자:** chipok  
+**개발자:** chipok(kimbap918)
 **버전:** 1.0.0
 
 ![](https://i.imgur.com/KLPKxB1.png)
